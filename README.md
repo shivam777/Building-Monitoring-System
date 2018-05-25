@@ -15,9 +15,15 @@ Flame Sensor=>>
   
   Requirements:
     1) Arduino IDE
-      1.1) Board Manager - NodeMCU or ESP12E
+     
+     1.1) Board Manager - NodeMCU or ESP12E
+    
     2) Tilt Sensor
+    
     3) Raindrop Sensor
+    
     4) Flame Sensor
+    
     5) USB cable
+    
     6) WIFI connection
